@@ -1,0 +1,383 @@
+@media (max-width: 1200px) {
+  .navbar-nav,
+  .buttons {
+    margin-left: 0rem !important;
+  }
+  nav .full-btn,
+  nav .bordered-btn {
+    padding: 7px 17px;
+  }
+  .hero {
+    top: 6rem;
+  }
+  .brands {
+    top: 40rem;
+  }
+  .collections {
+    top: 60rem;
+  }
+  .creators {
+    top: 125rem;
+  }
+  .creators-title p {
+    width: 95%;
+  }
+  .newsteller-input {
+    display: flex;
+    align-items: center;
+    justify-content: start;
+  }
+  .collections-cards {
+    top: 220rem;
+  }
+  footer {
+    top: 300rem;
+  }
+  .footer {
+    margin-bottom: 1rem;
+  }
+  .footer-paragraph p {
+    font-size: 17px;
+  }
+}
+@media (max-width: 992px) {
+  .navbar-toggler {
+    background-color: #fff;
+  }
+  #navbarNav {
+    background: #140f20;
+    box-shadow: 0 3px 20px rgba(0, 0, 0, 0.2);
+  }
+  .nav-link:hover,
+  .nav-link.active {
+    color: #bc61f3 !important;
+    box-shadow: none;
+  }
+  .navbar-nav {
+    margin: 0 2rem;
+  }
+  .navbar-nav {
+    margin-left: 1rem !important;
+  }
+  .buttons {
+    display: none;
+  }
+  /* BRANDS */
+  .brands {
+    top: 45rem;
+  }
+  .brand {
+    margin-top: 1.5rem;
+  }
+  .creators-title p {
+    width: 100%;
+  }
+  .newsteller {
+    top: 200rem;
+  }
+  .text-column h2 {
+    font-size: 45px;
+  }
+  .collections-cards {
+    top: 235rem;
+  }
+  .collection-item {
+    margin-top: 2rem;
+  }
+  footer {
+    top: 320rem;
+  }
+  .footer {
+    margin-bottom: 2rem;
+  }
+  .marketplace,
+  .footer-info,
+  .company,
+  .resources {
+    margin-top: 2rem;
+  }
+}
+@media (max-width: 768px) {
+  #navbarNav {
+    background: #140f20;
+    box-shadow: 0 3px 20px rgba(0, 0, 0, 0.2);
+  }
+  .nav-link:hover,
+  .nav-link.active {
+    color: #bc61f3 !important;
+    box-shadow: none;
+  }
+  .hero {
+    top: 7rem;
+  }
+  .hero .text {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+  }
+  .brands {
+    top: 40rem;
+  }
+  .collections {
+    top: 60rem;
+  }
+  .creators {
+    top: 125rem;
+  }
+  .newsteller {
+    top: 185rem;
+  }
+  .text-column h2 {
+    width: 75%;
+    font-size: 35px;
+  }
+  .text-column p {
+    width: 74%;
+    font-size: 14px;
+  }
+  .collections-cards {
+    top: 215rem;
+  }
+  footer {
+    top: 300rem;
+  }
+}
+@media (max-width: 576px) {
+  .hero {
+    top: 5rem;
+  }
+  h1 {
+    font-size: 2.4rem;
+  }
+  .hero .title {
+    font-size: 9px;
+  }
+  .title-buttons .full-btn {
+    margin-right: 0.5rem !important;
+  }
+  .title-buttons .full-btn,
+  .title-buttons .bordered-btn {
+    padding: 7px 17px;
+  }
+
+  .brands {
+    top: 27rem;
+  }
+  .brand {
+    width: 95%;
+    margin-top: 2rem;
+  }
+  .collections {
+    top: 60rem;
+  }
+
+  .carousel-inner {
+    width: 70%;
+    left: 5rem;
+  }
+  .carousel-item .card .info {
+    width: 90%;
+  }
+  .card .info h3 {
+    font-size: 15px;
+  }
+  .bid-btn .full-btn {
+    padding: 15px 85px;
+  }
+  .carousel-control-prev {
+    left: 1rem !important;
+  }
+  .carousel-control-next {
+    right: 1rem !important;
+  }
+  .creators {
+    top: 120rem;
+  }
+  .creators-title p {
+    font-size: 12px;
+    margin-top: 1rem;
+  }
+  .creator-card {
+    margin-top: 3rem;
+  }
+  .creators-title h2 {
+    font-size: 40px;
+  }
+  .creators-title p {
+    font-size: 9px;
+  }
+  .newsteller {
+    top: 229rem;
+  }
+  .text-column {
+    display: flex;
+    flex-direction: column;
+    margin-top: 0rem;
+  }
+  .text-column h2 {
+    width: 70%;
+    font-size: 11px;
+  }
+  .text-column p {
+    width: 71%;
+    font-size: 10px;
+  }
+  .newsteller-input input {
+    width: 300px;
+  }
+  .newsteller-input .full-btn {
+    position: relative;
+    left: -15rem;
+    top: 5rem;
+  }
+  .collections-cards {
+    top: 255rem;
+  }
+  .collections-cards-title h2 {
+    font-size: 40px;
+  }
+  .collections-cards-title p {
+    font-size: 13px;
+  }
+  .collection-item {
+    width: 10rem;
+    height: 20rem;
+  }
+  .item-text h3 {
+    font-size: 12px;
+  }
+  .item-text a {
+    font-size: 15px;
+  }
+  footer {
+    top: 315rem;
+  }
+  .footer-paragraph p {
+    font-size: 14px;
+  }
+  .bottom-footer p {
+    font-size: 14px;
+  }
+}
+@media (max-width: 375px) {
+  .hero {
+    top: 5rem;
+  }
+  h1 {
+    font-size: 2.4rem;
+  }
+  .hero .title {
+    font-size: 9px;
+  }
+  .title-buttons .full-btn {
+    margin-right: 0.5rem !important;
+  }
+  .title-buttons .full-btn,
+  .title-buttons .bordered-btn {
+    padding: 7px 17px;
+  }
+
+  .brands {
+    top: 27rem;
+  }
+  .brand {
+    width: 95%;
+    margin-top: 2rem;
+  }
+  /* .collections {
+    top: 60rem;
+  }
+
+  .carousel-inner {
+    width: 70%;
+    left: 5rem;
+  }
+  .carousel-item .card .info {
+    width: 90%;
+  }
+  .card .info h3 {
+    font-size: 15px;
+  }
+  .bid-btn .full-btn {
+    padding: 15px 85px;
+  }
+  .carousel-control-prev {
+    left: 1rem !important;
+  }
+  .carousel-control-next {
+    right: 1rem !important;
+  } */
+  .creators {
+    top: 60rem;
+  }
+  .creators-title p {
+    font-size: 12px;
+    margin-top: 1rem;
+  }
+  .creator-card {
+    margin-top: 3rem;
+  }
+  .creators-title h2 {
+    font-size: 40px;
+  }
+  .creators-title p {
+    font-size: 9px;
+  }
+  /* .newsteller {
+    top: 229rem;
+  }
+  .text-column {
+    display: flex;
+    flex-direction: column;
+    margin-top: 0rem;
+  }
+  .text-column h2 {
+    width: 70%;
+    font-size: 11px;
+  }
+  .text-column p {
+    width: 71%;
+    font-size: 10px;
+  }
+  .newsteller-input input {
+    width: 300px;
+  }
+  .newsteller-input .full-btn {
+    position: relative;
+    left: -15rem;
+    top: 5rem;
+  } */
+  .collections-cards {
+    top: 165rem;
+  }
+  .collections-cards-title h2 {
+    font-size: 40px;
+  }
+  .collections-cards-title p {
+    font-size: 13px;
+  }
+  .collection-item {
+    width: 10rem;
+    height: 20rem;
+  }
+  .item-text h3 {
+    font-size: 12px;
+  }
+  .item-text a {
+    font-size: 15px;
+  }
+  footer {
+    top: 230rem;
+  }
+  .footer-paragraph p {
+    font-size: 14px;
+  }
+  .bottom-footer p {
+    font-size: 14px;
+  }
+  section {
+    width: 375px;
+  }
+}
