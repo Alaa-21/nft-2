@@ -193,7 +193,7 @@
     right: 1rem !important;
   }
   .creators {
-    top: 120rem;
+    top: 75rem;
   }
   .creators-title p {
     font-size: 12px;
@@ -233,7 +233,7 @@
     top: 5rem;
   }
   .collections-cards {
-    top: 255rem;
+    top: 185rem;
   }
   .collections-cards-title h2 {
     font-size: 40px;
@@ -252,7 +252,7 @@
     font-size: 15px;
   }
   footer {
-    top: 315rem;
+    top: 240rem;
   }
   .footer-paragraph p {
     font-size: 14px;
